@@ -23,7 +23,7 @@ df_country_codes: dataset with the country name with its ISO country code.
 - df_country_codes: dataset with the country name with its ISO country code.
 
 # Visualising Top Songs & Artists & Events in Tableau
-[Top Songs & Artist & Events](https://public.tableau.com/app/profile/elisa.gomez.cambronero/viz/Top_Songs_and_Artist/TopSongsArtitstEvent?publish=yes)
+Tableau Dashboard: [Top Songs & Artist & Events](https://public.tableau.com/app/profile/elisa.gomez.cambronero/viz/Top_Songs_and_Artist/TopSongsArtitstEvent?publish=yes)
 
 This Tableau Project consist of a Tableau History of three interactive dashboards (and a Introduction) where you can play to get the information that you want!! 
 
